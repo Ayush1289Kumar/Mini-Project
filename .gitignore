@@ -1,0 +1,12 @@
+# Java
+*.class
+
+# Python
+.venv/
+venv/
+*.pyc
+__pychace__/
+
+# IDE
+.vscode/
+.idea/
